@@ -1,0 +1,126 @@
+_8
+replay@@
+_7
+1 There's something important I want to talk to you about.
+1 Okay, what's wrong?
+1 It's hard to say...
+1 Emm...
+1 I want to break up with you.
+CHOICE
+3
+Ok, sure!  Why not?
+What?? But..but why?
+What the hell are you thinking?  Are you kidding me?
+Ok, sure!  Why not?@@
+2 I can't believe you said it without any hesitation!
+1 Then let's not see each other again...
+_3
+9 ENDING: ALL'S WELL THAT ENDS WELL.  (You're a rather hasty one, aren't you?)
+CHOICE
+2
+end
+replay
+_7
+What?? But..but why?@@
+3 I have a friend who I cherish very much.
+3 In high school, she said she was going to study in England 
+3 and planned to live there for the rest of her life.  
+3 I wanted to go with her, but my parents didn't agree, 
+3 and so the two of us were separated.  It's been four years...
+3 Now she's back.  She came back for me.  I'm so torn now...
+6 Gege~ What are you doing here~?
+CHOICE
+2
+Who is she?
+Are you cheating on me?
+What the hell are you thinking?  Are you kidding me?@@
+2 I'm not kidding!  I'm serious!  You don't even let people talk??
+6 Gege~ What are you doing here~?
+CHOICE
+2
+Who is she?
+Are you cheating on me?
+Who is she?@@
+3 This is Bai Yueguang.  She is the one I was telling you about.
+5 Is she your girlfriend?
+3 Yes...
+6 Wow, gege, you have such a beautiful girlfriend, why didn't you tell me yesterday at dinner~?
+CHOICE
+3
+[Slap Bai Yueguang]
+[Slap your boyfriend]
+Why?  How is she better than me?  I cook for you and cheer you up when you're down.  What did I do worse than her?
+Are you cheating on me?@@
+3 I have nothing to do with her.  I just...miss her so much...
+5 Is she your girlfriend?
+3 Yes...
+6 Wow, gege, you have such a beautiful girlfriend, why didn't you tell me yesterday at dinner~?
+CHOICE
+3
+[Slap Bai Yueguang]
+[Slap your boyfriend]
+Why?  How is she better than me?  I cook for you and cheer you up when you're down.  What did I do worse than her?
+[Slap Bai Yueguang]@@
+2 What the hell is wrong with you?!
+4 It's so painful...
+2 What did she do wrong?  It's over between us!
+6 Heh~
+_2
+9 ENDING: BACK TO BEING A THIRD WHEEL.  (To your own (ex) boyfriend, no less!)
+CHOICE
+2
+end
+replay
+_7
+[Slap your boyfriend]@@
+2 !!
+4 Oh my gosh!  Are you okay?
+2 This is your way of dealing with things?  I can't stand you anymore!  It's over between us!
+_1
+9 ENDING: CATHARSIS.  (I mean, you've already hit him once.)
+CHOICE
+2
+end
+replay
+_7
+Why?  How is she better than me?  I cook for you and cheer you up when you're down.  What did I do worse than her?@@
+1 ...
+CHOICE
+2
+I'm much better at programming than she is!  I guarantee you an A in CS201!
+You are just her piggybank!  She knows your family is rich.  She's just after your money!
+I'm much better at programming than she is!  I guarantee you an A in CS201!@@
+3 Oh, you're so amazing!!  I'm willing to stay with you!!
+_5
+9 ENDING: BOOTLICKER.  (I'm not sure what you see in him.)
+CHOICE
+2
+end
+replay
+_7
+You are just her piggybank!  She knows your family is rich.  She's just after your money!@@
+4 No, I'm not! Don't listen to her!
+CHOICE
+2
+Think about it!  Has she ever spent a dime around you?!  Has she ever given you a present?!
+She's clearly just a cheap bitch who's desperate to be a mistress!
+Think about it!  Has she ever spent a dime around you?!  Has she ever given you a present?!@@
+1 You're right.  You're the one who really cares about me...
+_6
+9 ENDING: DELAYING THE INEVITABLE.  (Congratulations!  Your tumultuous relationship is still holding on.)
+CHOICE
+2
+end
+replay
+_7
+She's clearly just a cheap bitch who's desperate to be a mistress!@@
+2 How can you say that?!  How could you be so rude?!  It's over between us!
+_4
+9 ENDING: L + RATIO.  (What can I say, getting dumped for a gold-digger in the middle of FamilyMart must sting.)
+CHOICE
+2
+end
+replay
+_7
+end@@
+0 end
